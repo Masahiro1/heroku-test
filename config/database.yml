@@ -27,4 +27,12 @@ test:
 
 production:
   <<: *default
-  database: heroku_test_production
+  database: d181jmjp6m88h4
+  adapter: postgresql
+  encoding: unicode
+  template: template0
+  encoding: utf8
+  pool: 5
+  username: rcavjbiiqhcfwp
+  password: 5a34a07150b9a0dee3e3e90c812e805b8438e1e6c7d2acd741b287f264760bbf
+  host: localhost
