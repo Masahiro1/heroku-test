@@ -35,4 +35,4 @@ production:
   pool: 5
   username: rcavjbiiqhcfwp
   password: 5a34a07150b9a0dee3e3e90c812e805b8438e1e6c7d2acd741b287f264760bbf
-  host: localhost
+  host: ec2-23-23-110-26.compute-1.amazonaws.com
